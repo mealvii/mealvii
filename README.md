@@ -1,6 +1,6 @@
 - Hi, I’m Ahmad Mostafa Alvi
 - I’m interested in web developing.
-- I completeed learning html, css and wordpress.
+- I completed learning html, css and wordpress.
 
 <!---
 mealvii/mealvii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
